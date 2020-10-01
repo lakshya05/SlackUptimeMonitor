@@ -1,4 +1,4 @@
-# Website Down Notifier on Slack
+# Website Down Notifier on Slack - An Amazing Project
 
 
 <img src="https://raw.githubusercontent.com/AndreiD/SlackUptimeMonitor/master/slackmonitor.JPG" alt="slack website up down notifier uptime ping"/>
